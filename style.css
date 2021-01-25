@@ -1,0 +1,11 @@
+#main{
+  position:relative;
+  margin: auto;
+  text-align: center;
+}
+
+a{
+  display:block;
+  height:200%;
+  font-size: 25px;
+}
